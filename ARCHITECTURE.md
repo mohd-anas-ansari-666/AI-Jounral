@@ -7,7 +7,7 @@
 ## System Overview
 
 ```
-![alt text](<System_Overview.drawio.png>)
+![alt text](System_Overview.drawio.png)
 
 ```
 
