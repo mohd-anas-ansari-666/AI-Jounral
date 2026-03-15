@@ -1,0 +1,12 @@
+{
+  "name": "arvyax-journal",
+  "version": "1.0.0",
+  "description": "ArvyaX Journal — AI-Powered Nature Session Journal",
+  "private": true,
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "dev:backend": "cd backend && npm run dev"
+  }
+}
